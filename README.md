@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bushra
 - 👀 I’m interested in learning new things and trying different ideas.
-- 🌱 I’m currently learning Flutter and applucation developing
+- 🌱 I’m currently learning Flutter and application developing
 
 <!---
 BChowy/BChowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
